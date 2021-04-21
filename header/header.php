@@ -1,9 +1,12 @@
+
 <!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
     <link href="header.css" rel="stylesheet" />
+    <link href='https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css'>
+
 
     <title>Prenium Interim</title>
 
@@ -11,7 +14,8 @@
 
 <body>
 
-<nav class="navbar navbar-expand-lg navbar-light bg-white py-3 shadow-sm"> <a href="../index.php" class="navbar-brand font-weight-bold d-block d-lg-none"> <img src="logo.jpg" width="70%" > </a> <button type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbars" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler"> <span class="navbar-toggler-icon"></span> </button>     <!-- menu burger responsive -->                      
+
+<nav class="navbar navbar-expand-lg navbar-light bg-white py-3 shadow-sm"> <a href="../../index.php" class="navbar-brand font-weight-bold d-block d-lg-none"> <img src="logo.jpg" width="70%" > </a> <button type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbars" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler"> <span class="navbar-toggler-icon"></span> </button>     <!-- menu burger responsive -->                      
 
     <div id="navbarContent" class="collapse navbar-collapse">
 
@@ -19,7 +23,7 @@
         <ul class="navbar-nav my-2 mx-auto ">
 
   <div class="logo2" >
-        <li class="headerlogo d-none d-lg-block "><a href="../index.php" class=" "> <img src="logo.jpg" width="70%  "  >  </a></li>  <!-- logo header -->
+        <li class="headerlogo d-none d-lg-block "><a href="/Business-interim-Stage" class=" "> <img src="logo.jpg" width="70%  "  >  </a></li>  <!-- logo header -->
    </div>   
 
 <!-- dropdow -->
@@ -102,14 +106,10 @@
 
 
 
-
-
-<!-- Javascript -->
     <script src="header.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
     <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
     <script src='https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js'></script>
-    <link href='https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css'>
 
 </body>
 </html>

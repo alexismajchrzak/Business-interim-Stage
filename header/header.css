@@ -20,12 +20,3 @@ code {
     letter-spacing: 0.08em
 }
   
-
-navbar-logo2 {
-
-    display: none !important ;
-}
-.logo2 ::after {
-
-    display: none;
-}

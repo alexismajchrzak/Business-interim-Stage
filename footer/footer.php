@@ -1,9 +1,10 @@
+<!--
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <title>Prenium Interim</title>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
@@ -18,7 +19,9 @@
 
 <body>
 
-<footer class="container-fluid bg-grey py-5">
+-->
+
+<footer class="container-fluid bg-grey py-5 fixed-bottom ">   <!-- coller footer bas de pages -->
 <div class="container">
    <div class="row">
 
@@ -97,10 +100,13 @@
 </div>
 </div>
 
+<!--
+
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<!------ Include the above in your HEAD tag ---------->
 
 
 </body>
 </html>
+
+-->
