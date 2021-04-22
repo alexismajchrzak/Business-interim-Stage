@@ -21,7 +21,7 @@
 
 -->
 
-<footer class="container-fluid bg-grey py-5 fixed-bottom ">   <!-- coller footer bas de pages -->
+<footer class="container-fluid bg-grey py-5  ">   <!-- coller footer bas de pages -->
 <div class="container">
    <div class="row">
 
@@ -39,8 +39,10 @@
             <div class="col-md-6 px-4">
                <h6> À propos </h6>
                <p> possibilité de  texte a mettre .</p>  <!-- texte a mettre -->
-               <a href="#" class="btn-footer"> Plus d'infos   </a><br>
-               <a href="#" class="btn-footer"> Nous contacter </a>
+    <ul>
+              <li> <a href="#" class=""> Plus d'infos   </a><br><br> </li>
+              <li> <a href="#" class=""> Nous contacter </a></li>
+               </ul>
             </div>
 
          </div>

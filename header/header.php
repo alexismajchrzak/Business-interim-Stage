@@ -1,4 +1,4 @@
-
+<!--
 <!DOCTYPE html>
 <html>
 <head>
@@ -8,12 +8,12 @@
     <link href='https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css'>
 
 
-     <!-- footer link -->
+     <! footer link 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700" rel="stylesheet">
   <link href="../footer/footer.css" rel="stylesheet" />
 
-    <!-- fin footer link -->
+     fin footer link 
 
 
     <title>Prenium Interim</title>
@@ -21,9 +21,9 @@
 </head>
 
 <body>
+-->
 
-
-<nav class="navbar navbar-expand-lg navbar-light bg-white py-3 shadow-sm"> <a href="../../index.php" class="navbar-brand font-weight-bold d-block d-lg-none"> <img src="logo.jpg" width="70%" > </a> <button type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbars" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler"> <span class="navbar-toggler-icon"></span> </button>     <!-- menu burger responsive -->                      
+<nav class="navbar navbar-expand-lg navbar-light bg-white py-3 shadow-sm  "> <a href="../../index.php" class="navbar-brand font-weight-bold d-block d-lg-none"> <img src="logo.jpg" width="70%" > </a> <button type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbars" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler"> <span class="navbar-toggler-icon"></span> </button>     <!-- menu burger responsive -->                      
 
     <div id="navbarContent" class="collapse navbar-collapse">
 
@@ -31,7 +31,7 @@
         <ul class="navbar-nav my-2 mx-auto ">
 
   <div class="logo2" >
-        <li class="headerlogo d-none d-lg-block "><a href="/Business-interim-Stage" class=" "> <img src="logo.jpg" width="70%  "  >  </a></li>  <!-- logo header -->
+        <li class="headerlogo d-none d-lg-block  "><a href="/Business-interim-Stage" class=" "> <img src="logo.jpg" width="70%  "  >  </a></li>  <!-- logo header -->
    </div>   
 
 <!-- dropdow -->
@@ -111,18 +111,12 @@
 
 
 
-<?php
-        include "footer/footer.php"
-    ?>
 
 
-
-
-
- <!-- footer link -->
+ <!-- footer link 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700" rel="stylesheet">
-    <!-- fin footer link -->
+    < fin footer link 
 
 
     <script src="header.js"></script>
@@ -132,3 +126,5 @@
 
 </body>
 </html>
+
+-->
