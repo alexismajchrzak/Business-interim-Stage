@@ -1,22 +1,27 @@
 .megamenu {
-    position: static
+    position: static !important ;
 }
 
 .megamenu .dropdown-menu {
-    background: none;
-    border: none;
-    width: 100%
+    background: none !important;
+    border: none !important;
+    width: 100% !important;
 }
 
 
 code {
-    color: #745eb1;
-    background: #fff;
-    padding: 0.1rem 0.2rem;
-    border-radius: 0.2rem
+    color: #745eb1 !important;
+    background: #fff !important;
+    padding: 0.1rem 0.2rem !important;
+    border-radius: 0.2rem !important;
 }
 
 .text-uppercase {
-    letter-spacing: 0.08em
+    letter-spacing: 0.08em !important;
+}
+
+.text-uppercase {
+
+font-size: 100%;
 }
   

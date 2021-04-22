@@ -8,10 +8,20 @@
  footer {
         color: grey;
  }
- footer p, a {
-font-size: 12px;
-font-family: 'Roboto', sans-serif;
+
+
+footer ul li a {    /* tout les <a> du footer */ 
+
+    font-size: 12px;
+    font-family: 'Roboto', sans-serif;
+
 }
+
+
+footer p {     /* tout les <p> du footer */
+    font-size: 15px ;
+}
+
 footer h6 {
 font-family: 'Playfair Display', serif;
 margin-bottom: 40px;

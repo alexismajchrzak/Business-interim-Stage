@@ -8,6 +8,14 @@
     <link href='https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css'>
 
 
+     <!-- footer link -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700" rel="stylesheet">
+  <link href="../footer/footer.css" rel="stylesheet" />
+
+    <!-- fin footer link -->
+
+
     <title>Prenium Interim</title>
 
 </head>
@@ -103,7 +111,18 @@
 
 
 
+<?php
+        include "footer/footer.php"
+    ?>
 
+
+
+
+
+ <!-- footer link -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700" rel="stylesheet">
+    <!-- fin footer link -->
 
 
     <script src="header.js"></script>
