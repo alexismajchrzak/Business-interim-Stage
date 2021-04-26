@@ -50,7 +50,7 @@
 
       <div class="col-md-6">
          <div class="row">
-            <div class="col-md-6 px-4">
+            <div class="col-md-6 px-5">
 
                <h6> Help us</h6>
                <div class="row ">
@@ -66,16 +66,7 @@
                      </ul>
                   </div>
 
-                  <div class="col-md-6 px-4">
-                     <ul>
-                        <li> <a href="#"> Cab Faciliy</a> </li>
-                        <li> <a href="#"> Fax</a> </li>
-                        <li> <a href="#"> Terms</a> </li>
-                        <li> <a href="#"> Policy</a> </li>
-                        <li> <a href="#"> Refunds</a> </li>
-                        <li> <a href="#"> Paypal</a> </li>
-                     </ul>
-                  </div>
+                 
 
                </div>
             </div>
@@ -88,7 +79,6 @@
                   <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
                   <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
                   <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                  <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
 
                </div>
                

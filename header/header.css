@@ -26,6 +26,6 @@ font-size: 100%;
 }
   
 .navbar {
-    margin-bottom: 10% ;
+    margin-bottom: 10% ;    /* margin en dessous de la navbar */ 
 
 }

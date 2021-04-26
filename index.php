@@ -36,9 +36,6 @@
 
 
 
-
-
-
 <?php
         include "footer/footer.php"
     ?>
