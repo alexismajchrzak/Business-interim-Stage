@@ -32,13 +32,13 @@
                <div class="logo-part">
                   <h1 class="w-50 logo-footer" > Prenium Interim </h1>
                   <p>17 rue de l'Etang - 95943 ROISSY CHARLES DE GAULLE</p>
-                  <p>Mettre un petit slogan </p>   <!-- mettre un petit slogan ici -->
+                  <p> </p>   <!-- mettre un petit slogan ici -->
                </div>
             </div>
 
             <div class="col-md-6 px-4">
                <h6> À propos </h6>
-               <p> possibilité de  texte a mettre .</p>  <!-- texte a mettre -->
+               <p> </p>  <!-- texte a mettre -->
     <ul>
               <li> <a href="#" class=""> Plus d'infos   </a><br><br> </li>
               <li> <a href="#" class=""> Nous contacter </a></li>

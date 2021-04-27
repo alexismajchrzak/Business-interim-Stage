@@ -25,7 +25,13 @@ code {
 font-size: 100%;
 }
   
-.navbar {
-    margin-bottom: 5% ;    /* margin en dessous de la navbar */ 
 
+.logo2 {
+
+    margin-left: 2% !important;
+}
+
+.my-2 {
+
+    padding-right: 2%  !important ;
 }

@@ -35,7 +35,7 @@
    </div>   
 
 <!-- dropdow -->
-            <li class="nav-item dropdown megamenu mt-4"><a id="megamneu" href="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="nav-link dropdown-toggle font-weight-bold text-uppercase"> Menu</a>
+            <li class="nav-item dropdown megamenu mt-4"><a id="megamneu" href="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="nav-link dropdown-toggle font-weight-bold text-uppercase"> Plus </a>
                 <div aria-labelledby="megamneu" class="dropdown-menu border-0 p-0 m-0">
                     <div class="container">
                         <div class="row bg-white rounded-0 m-0 shadow-sm">
@@ -81,7 +81,7 @@
 <!-- fin dropdow --> 
 
 
-            <li class="nav-item mt-4 "><a href="" class="nav-link font-weight-bold text-uppercase  ">About</a></li>
+            <li class="nav-item mt-4 "><a href="/Business-interim-Stage" class="nav-link font-weight-bold text-uppercase  ">Accueil </a></li>
             <li class="nav-item  mt-4"><a href="" class="nav-link font-weight-bold text-uppercase">Entreprise</a></li>
             <li class="nav-item  mt-4"><a href="../contact/contact.php" class="nav-link font-weight-bold text-uppercase">Contact</a></li>
 
