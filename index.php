@@ -35,6 +35,126 @@
 
 
 
+<div class="hero-image">
+  <div class="hero-text">
+    <h3>Business Interim </h3>
+    <p>La compétence au service de la performance</p>
+
+<div class="buttonhover">
+    <a href="#" class="cta">
+    <span>Qui sommes nous ?</span>
+    <svg width="13px" height="10px" viewBox="0 0 13 10">
+        <path d="M1,5 L11,5"></path>
+        <polyline points="8 1 12 5 8 9"></polyline>
+    </svg>
+    </a>
+ </div>   
+
+  </div>
+</div>
+
+
+
+<div class="container h-100">
+  <div class="row align-middle">
+
+    <div class="textexpertise">
+      
+        <p> Nos expertises <hr/> </p>
+        <br/>
+        <h1>Bien plus qu'une Agence d'intérim</h1>
+
+    </div>
+
+    <div class="col-md-6 col-lg-4 column">
+      <div class="card gr-1">
+        <div class="txt">
+          <h4>Une entreprise  </br>  au coeur de vos attentes</h4>   <!-- grand titre --> 
+          <p>Le capital humain représente la meilleure réponse aux bouleversements
+économiques. Polyvalence, expertise et savoir faire professionnel sont
+devenus une nécessité absolue pour la compétitivité de l’entreprise.</p>   <!-- texte apres hover -->
+        </div>
+        <a href="#">En savoir plus</a>
+        <div class="ico-card">
+        <i class="fa fa-rebel"></i>
+      </div>
+      </div>
+    </div>
+
+    <div class="col-md-6 col-lg-4 column">
+      <div class="card gr-2">
+        <div class="txt">
+          <h4>Expert du recrutement</br>  dans les Travaux Publics </h4>
+          <p>Terrassement, aménagement urbain, pose de réseaux
+souterrains.
+Premium Intérim a su développer avec ses Clients, une
+relation de partenariat fondée sur la confiance
+réciproque et la qualité des liens contractuels.</p>
+        </div>
+        <a href="#">En savoir plus </a>
+      <div class="ico-card">
+        <i class="fa fa-codepen"></i>
+      </div>
+      </div>
+    </div>
+
+    <div class="col-md-6 col-lg-4 column">
+      <div class="card gr-3">
+        <div class="txt">
+          <h4>Expert du recrutement </br>dans l'aéroportuaire </h4>
+          <p>Busines Intérim a su développer avec ses Clients, une relation de partenariat fondée sur la confiance réciproque et la qualité des liens contractuels. Agissant en cabinet spécialisé.</p>
+        </div>
+        <a href="#">En savoir plus</a>
+      <div class="ico-card">
+        <i class="fa fa-empire"></i>
+      </div>
+      </div>
+    </div>
+
+    <div class="col-md-6 col-lg-4 column">
+      <div class="card gr-1">
+        <div class="txt">
+          <h4>Une entreprise  </br>  au coeur de vos attentes</h4>   <!-- grand titre --> 
+          <p>Visual communication and problem-solving</p>   <!-- texte apres hover -->
+        </div>
+        <a href="#">En savoir plus</a>
+        <div class="ico-card">
+        <i class="fa fa-rebel"></i>
+      </div>
+      </div>
+    </div>
+
+    <div class="col-md-6 col-lg-4 column">
+      <div class="card gr-2">
+        <div class="txt">
+          <h4>Expert du recrutement</br>  dans les Travaux Publics </h4>
+          <p>How design is implemented on the web.</p>
+        </div>
+        <a href="#">En savoir plus </a>
+      <div class="ico-card">
+        <i class="fa fa-codepen"></i>
+      </div>
+      </div>
+    </div>
+
+    <div class="col-md-6 col-lg-4 column">
+      <div class="card gr-3">
+        <div class="txt">
+          <h4>Expert du recrutement </br>dans l'aéroportuaire </h4>
+          <p>User Interface and User Experience Design.</p>
+        </div>
+        <a href="#">En savoir plus</a>
+      <div class="ico-card">
+        <i class="fa fa-empire"></i>
+      </div>
+      </div>
+    </div>
+    
+  </div>
+</div>
+
+
+
 
 <?php
         include "footer/footer.php"
