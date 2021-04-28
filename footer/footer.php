@@ -22,7 +22,7 @@
 -->
 
 <footer class="container-fluid bg-grey py-5  ">   <!-- coller footer bas de pages -->
-<div class="container">
+<div class="containerr">
    <div class="row">
 
       <div class="col-md-6">

@@ -70,13 +70,11 @@
       <div class="card gr-1">
         <div class="txt">
           <h4>Une entreprise  </br>  au coeur de vos attentes</h4>   <!-- grand titre --> 
-          <p>Le capital humain représente la meilleure réponse aux bouleversements
-économiques. Polyvalence, expertise et savoir faire professionnel sont
-devenus une nécessité absolue pour la compétitivité de l’entreprise.</p>   <!-- texte apres hover -->
+          <p>Le capital humain représente la meilleure réponse aux bouleversements économiques. Polyvalence, expertise et savoir faire professionnel sont devenus une nécessité absolue pour la compétitivité de l’entreprise.</p>   <!-- texte apres hover -->
         </div>
         <a href="#">En savoir plus</a>
         <div class="ico-card">
-        <i class="fa fa-rebel"></i>
+        <i class="fa fa-heart"></i>
       </div>
       </div>
     </div>
@@ -85,15 +83,11 @@ devenus une nécessité absolue pour la compétitivité de l’entreprise.</p>  
       <div class="card gr-2">
         <div class="txt">
           <h4>Expert du recrutement</br>  dans les Travaux Publics </h4>
-          <p>Terrassement, aménagement urbain, pose de réseaux
-souterrains.
-Premium Intérim a su développer avec ses Clients, une
-relation de partenariat fondée sur la confiance
-réciproque et la qualité des liens contractuels.</p>
+          <p>Terrassement, aménagement urbain, pose de réseaux souterrains. Premium Intérim a su développer avec ses Clients, une relation de partenariat fondée sur la confiance réciproque et la qualité des liens contractuels.</p>
         </div>
         <a href="#">En savoir plus </a>
       <div class="ico-card">
-        <i class="fa fa-codepen"></i>
+        <i class="fa fa-wrench "></i>
       </div>
       </div>
     </div>
@@ -102,11 +96,11 @@ réciproque et la qualité des liens contractuels.</p>
       <div class="card gr-3">
         <div class="txt">
           <h4>Expert du recrutement </br>dans l'aéroportuaire </h4>
-          <p>Busines Intérim a su développer avec ses Clients, une relation de partenariat fondée sur la confiance réciproque et la qualité des liens contractuels. Agissant en cabinet spécialisé.</p>
+          <p>Busines Intérim a su développer avec ses Clients, une relation de partenariat fondée sur la confiance réciproque et la qualité des liens contractuels. Agissant en cabinet spécialisé, mettant en œuvre une approche individualisée pour chaque Candidats .</p>
         </div>
         <a href="#">En savoir plus</a>
       <div class="ico-card">
-        <i class="fa fa-empire"></i>
+        <i class="fa fa-plane"></i>
       </div>
       </div>
     </div>
@@ -114,12 +108,12 @@ réciproque et la qualité des liens contractuels.</p>
     <div class="col-md-6 col-lg-4 column">
       <div class="card gr-1">
         <div class="txt">
-          <h4>Une entreprise  </br>  au coeur de vos attentes</h4>   <!-- grand titre --> 
-          <p>Visual communication and problem-solving</p>   <!-- texte apres hover -->
+          <h4>Expert du recrutement </br>   dans le Tertiaire</h4>   <!-- grand titre --> 
+          <p>Vous avez des besoins dans le tertiaire n'hésitez pas à nous consulter. </p>   <!-- texte apres hover -->
         </div>
         <a href="#">En savoir plus</a>
         <div class="ico-card">
-        <i class="fa fa-rebel"></i>
+        <i class="fa fa-desktop"></i>
       </div>
       </div>
     </div>
@@ -127,12 +121,12 @@ réciproque et la qualité des liens contractuels.</p>
     <div class="col-md-6 col-lg-4 column">
       <div class="card gr-2">
         <div class="txt">
-          <h4>Expert du recrutement</br>  dans les Travaux Publics </h4>
-          <p>How design is implemented on the web.</p>
+          <h4>Recrutement </br>  </h4>
+          <p>Nos consultants maîtrisent les domaines dans lesquels ils interviennent, ils sont les interlocuteurs RH privilégiés des opérationnels qui les mandatent pour leurs recrutements en CDI, CDD et intérim, en France et à l’international.</p>
         </div>
         <a href="#">En savoir plus </a>
       <div class="ico-card">
-        <i class="fa fa-codepen"></i>
+        <i class="fa fa-address-card-o"></i>
       </div>
       </div>
     </div>
@@ -140,12 +134,12 @@ réciproque et la qualité des liens contractuels.</p>
     <div class="col-md-6 col-lg-4 column">
       <div class="card gr-3">
         <div class="txt">
-          <h4>Expert du recrutement </br>dans l'aéroportuaire </h4>
-          <p>User Interface and User Experience Design.</p>
+          <h4>Satisfaction </br> </h4>
+          <p>Votre satisfaction est notre priorité. Premium Interim s’adapte en temps réel aux stratégies et nouvelles orientations des entreprises.</p>
         </div>
         <a href="#">En savoir plus</a>
       <div class="ico-card">
-        <i class="fa fa-empire"></i>
+        <i class="fa fa-star-half-o"></i>
       </div>
       </div>
     </div>
