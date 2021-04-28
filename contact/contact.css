@@ -138,21 +138,21 @@ a {
 }
 
 .btn-blue {
-    background-color: #1A237E;
+    background-color: #456295cc;
     width: 150px;
     color: #fff;
     border-radius: 2px
 }
 
 .btn-blue:hover {
-    background-color: #1a227ed2;
+    background-color: #456395;
     color: white;
     cursor: pointer
 }
 
 .bg-blue {
     color: #fff;
-    background-color: #1A237E
+    background-color: #456395
 }
 
 

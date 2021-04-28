@@ -106,10 +106,23 @@
     </div>
 
     <div class="col-md-6 col-lg-4 column">
+      <div class="card gr-2">
+        <div class="txt">
+          <h4>Satisfaction </br> Clientèle </h4>
+          <p>Votre satisfaction est notre priorité. Businnes Interim s’adapte en temps réel aux  nouvelles orientations des entreprises.</p>
+        </div>
+        <a href="#">En savoir plus</a>
+      <div class="ico-card">
+        <i class="fa fa-star-half-o"></i>
+      </div>
+      </div>
+    </div>
+
+    <div class="col-md-6 col-lg-4 column">
       <div class="card gr-1">
         <div class="txt">
           <h4>Expert du recrutement </br>   dans le Tertiaire</h4>   <!-- grand titre --> 
-          <p>Vous avez des besoins dans le tertiaire n'hésitez pas à nous consulter. </p>   <!-- texte apres hover -->
+          <p >Vous avez des besoins dans le tertiaire n'hésitez pas à nous consulter. </p>   <!-- texte apres hover -->
         </div>
         <a href="#">En savoir plus</a>
         <div class="ico-card">
@@ -122,7 +135,7 @@
       <div class="card gr-2">
         <div class="txt">
           <h4>Recrutement </br>  </h4>
-          <p>Nos consultants maîtrisent les domaines dans lesquels ils interviennent, ils sont les interlocuteurs RH privilégiés des opérationnels qui les mandatent pour leurs recrutements en CDI, CDD et intérim, en France et à l’international.</p>
+          <p class="recrutement" >Nos consultants maîtrisent les domaines dans lesquels ils interviennent, ils sont les interlocuteurs RH privilégiés des opérationnels qui les mandatent pour leurs recrutements en CDI, CDD et intérim, en France et à l’international.</p>
         </div>
         <a href="#">En savoir plus </a>
       <div class="ico-card">
@@ -131,18 +144,7 @@
       </div>
     </div>
 
-    <div class="col-md-6 col-lg-4 column">
-      <div class="card gr-3">
-        <div class="txt">
-          <h4>Satisfaction </br> </h4>
-          <p>Votre satisfaction est notre priorité. Premium Interim s’adapte en temps réel aux stratégies et nouvelles orientations des entreprises.</p>
-        </div>
-        <a href="#">En savoir plus</a>
-      <div class="ico-card">
-        <i class="fa fa-star-half-o"></i>
-      </div>
-      </div>
-    </div>
+   
     
   </div>
 </div>

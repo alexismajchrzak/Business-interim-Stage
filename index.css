@@ -95,15 +95,15 @@ body, html {
 @import url("https://fonts.googleapis.com/css?family=Oswald:300,400,500,700");
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800");
 .gr-1 {
-  background: linear-gradient(170deg, #01E4F8 0%, #1D3EDE 100%);
+  background: linear-gradient(170deg, #55877E 0%, #52AEA1 100%);
 }
 
 .gr-2 {
-  background: linear-gradient(170deg, #B4EC51 0%, #429321 100%);
+  background: linear-gradient(170deg, #456395 0%, #6CBDDB 100%);
 }
 
 .gr-3 {
-  background: linear-gradient(170deg, #C86DD7 0%, #3023AE 100%);
+  background: linear-gradient(170deg, #55877E 0%, #52AEA1  100%);
 }
 
 * {
@@ -169,6 +169,11 @@ body, html {
   opacity: 0;
   color: white;
 }
+
+.card .txt .recrutement {
+    font-size: 0.71rem;
+}
+
 .card a {
   z-index: 3;
   font-size: 0.7rem;
@@ -230,8 +235,8 @@ body, html {
 
   .container {    /*tout le block expertise /*/ 
 
-    margin-top: 10%;
-    margin-bottom: 10%; 
+    margin-top: 5%;
+    margin-bottom: 8%; 
   }
 
  /*  ------- responsive ------ */ 
