@@ -233,12 +233,12 @@ body, html {
       margin-left: 30%;
   }
 
-  
-
-  .containerrr {    /*tout le block expertise /*/ 
+  .containerrr {    /*tout le block expertise   /*/ 
 
     margin-top: 5%;
     margin-bottom: 8%; 
+    margin-right: 2%;       /* reglage pour le blanc sur le coter droit */ 
+    margin-left: 0.9%;
   }
 
  /*  ------- responsive ------ */ 
