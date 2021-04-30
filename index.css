@@ -233,7 +233,9 @@ body, html {
       margin-left: 30%;
   }
 
-  .container {    /*tout le block expertise /*/ 
+  
+
+  .containerrr {    /*tout le block expertise /*/ 
 
     margin-top: 5%;
     margin-bottom: 8%; 
@@ -244,7 +246,7 @@ body, html {
 @media screen and (min-width: 768px) and (max-width: 1024px) {    /*style petites-moyennes tablettes */
 
 
-   .container{
+   .containerrr{
     margin-top: 40%;
     margin-bottom: 40%; 
 
@@ -258,7 +260,7 @@ body, html {
   
   @media screen and (min-width: 423px) and (max-width: 768px) {      /*style petites-moyennes tablettes */
 
-    .container{
+    .containerrr{
         margin-top: 40%;
         margin-bottom: 40%; 
     
@@ -271,7 +273,7 @@ body, html {
 
 @media screen and (min-width: 376px) and (max-width: 450px) {     /*style petites-moyennes tablettes */
 
-    .container{
+    .containerrr{
         margin-top: 2% !important;
         margin-bottom: 2% !important; 
     
@@ -283,7 +285,7 @@ body, html {
 
   @media screen and (min-width: 321px) and (max-width: 375px) {  /*style smartphones et petites tablettes en portrait*/
 
-    .container{
+    .containerrr{
         margin-top: 2% !important;
         margin-bottom: 2% !important; 
     
@@ -295,7 +297,7 @@ body, html {
 
     @media screen and (max-device-width: 320px) {   /*style petits smartphones en voie de disparition*/
       
-        .container{
+        .containerrr{
             margin-top: 2% !important;
             margin-bottom: 2% !important; 
         

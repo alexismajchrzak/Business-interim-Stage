@@ -23,6 +23,7 @@
 <body>
 -->
 
+
 <nav class="navbar navbar-expand-lg navbar-light bg-white py-3 shadow-sm  "> <a href="../../index.php" class="navbar-brand font-weight-bold d-block d-lg-none"> <img src="logo.jpg" width="25%" > </a> <button type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbars" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler"> <span class="navbar-toggler-icon"></span> </button>     <!-- menu burger responsive -->                      
 
     <div id="navbarContent" class="collapse navbar-collapse">

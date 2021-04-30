@@ -33,7 +33,7 @@
         include "header/header.php"
     ?>
 
-
+<!-- image background + bouton effet -->
 
 <div class="hero-image">
   <div class="hero-text">
@@ -53,9 +53,11 @@
   </div>
 </div>
 
+<!-- fin image background + bouton effet -->
 
+<!-- expertise -->
 
-<div class="container h-100">
+<div class="containerrr h-100">
   <div class="row align-middle">
 
     <div class="textexpertise">
@@ -149,7 +151,7 @@
   </div>
 </div>
 
-
+<!-- fin expertise -->
 
 
 <?php
