@@ -308,3 +308,205 @@ body, html {
     
 /* fin card expertise */ 
 
+
+/* counter */ 
+
+@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow);
+
+
+.sectionClass {
+  padding: 20px 0px 50px 0px;
+  position: relative;
+  display: block;
+  
+  
+}
+
+.fullWidth {
+  width: 100% !important;
+  display: table;
+  float: none;
+  padding: 0;
+  min-height: 1px;
+  height: 100%;
+  position: relative;
+  
+}
+
+
+.sectiontitle {
+  background-position: center;
+  margin: 30px 0 0px;
+  text-align: center;
+  min-height: 20px;
+  
+    
+}
+
+.sectiontitle h2 {
+  font-size: 30px;
+  color: #222;
+  margin-bottom: 0px;
+  padding-right: 10px;
+  padding-left: 10px;
+  
+
+}
+
+
+.headerLine {
+  width: 160px;
+  height: 2px;
+  display: inline-block;
+  background: #101F2E;
+  
+}
+
+
+.projectFactsWrap{
+    display: flex;
+  margin-top: 30px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: black !important ;    /* background en fondu sur la photo */ 
+
+
+}
+
+
+#projectFacts .fullWidth{
+  padding: 0;
+  
+  
+}
+
+.projectFactsWrap .item{
+  width: 25%;
+  height: 100%;
+  padding: 50px 0px;
+  text-align: center;
+  
+  
+}
+
+.projectFactsWrap .item:nth-child(1){
+
+  background-image: url("https://images.pexels.com/photos/911738/pexels-photo-911738.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260") ; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; 
+  
+
+}
+
+.projectFactsWrap .item:nth-child(2){
+    background-image: url("https://images.pexels.com/photos/911738/pexels-photo-911738.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"); 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+ 
+}
+
+.projectFactsWrap .item:nth-child(3){
+    background-image: url("https://images.pexels.com/photos/911738/pexels-photo-911738.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"); 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+
+
+}
+
+.projectFactsWrap .item:nth-child(4){
+    background-image: url("https://images.pexels.com/photos/911738/pexels-photo-911738.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"); 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+
+  
+
+ 
+}
+
+.projectFactsWrap .item p.number{
+  font-size: 40px;
+  padding: 0;
+  font-weight: bold;
+  
+   
+    
+  
+}
+
+.projectFactsWrap .item p{
+  color: black;
+  font-size: 18px;
+  margin: 0;
+  padding: 10px;
+  font-family: 'Open Sans';
+ 
+
+  
+}
+
+
+.projectFactsWrap .item span{
+  width: 40px;
+  background: black;
+  height: 2px;
+  display: block;
+  margin: 0 auto;
+ 
+
+
+}
+
+
+.projectFactsWrap .item i{
+  vertical-align: middle;
+  font-size: 50px;
+  color: rgb(0, 0, 0);
+  
+  
+  
+}
+
+
+.projectFactsWrap .item:hover i, .projectFactsWrap .item:hover p{
+  color: rgba(0, 0, 0, 0.822) ; 
+ 
+ 
+}
+
+.projectFactsWrap .item:hover span{
+  background: rgb(0, 0, 0);
+  
+}
+
+@media (max-width: 786px){
+  .projectFactsWrap .item {
+     flex: 0 0 50%;
+
+  }
+}
+
+/* AUTHOR LINK */
+
+.about-me-img {
+  width: 120px;
+  height: 120px;
+  left: 10px;
+  /* bottom: 30px; */
+  position: relative;
+  border-radius: 100px;
+  
+}
+
+
+/* fin counter */ 
