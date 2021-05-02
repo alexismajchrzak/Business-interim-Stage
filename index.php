@@ -161,33 +161,33 @@
         <div class="projectFactsWrap ">
 
             <div class="item wow fadeInUpBig animated animated" data-number="12" style="visibility: visible;">
-                <i class="fa fa-briefcase"></i>
-                <p id="number1" class="number">12</p>
+                <i class="fa fa-handshake-o "></i>
+                <p id="number1" class="number">120</p>
                 <span></span>
-                <p>Projects done</p>
+                <p>Missions </p>
             </div>
 
             <div class="item wow fadeInUpBig animated animated" data-number="55" style="visibility: visible;">
                 <i class="fa fa-smile-o"></i>
-                <p id="number2" class="number">55</p>
+                <p id="number2" class="number">+1000</p>
                 <span></span>
-                <p>Happy clients</p>
+                <p>Clients sastifait </p>
             </div>
 
             <div class="item wow fadeInUpBig animated animated" data-number="359" style="visibility: visible;">
                 <i class="fa fa-coffee"></i>
                 <p id="number3" class="number">359</p>
                 <span></span>
-                <p>Cups of coffee</p>
+                <p>?????? </p>
             </div>
 
             <div class="item wow fadeInUpBig animated animated" data-number="246" style="visibility: visible;">
                 <i class="fa fa-camera"></i>
                 <p id="number4" class="number">246</p>
                 <span></span>
-                <p>Photos taken</p>
+                <p>?????? </p>
             </div>
-            
+
         </div>
     </div>
 </div>

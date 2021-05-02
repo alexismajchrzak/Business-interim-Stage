@@ -247,8 +247,8 @@ body, html {
 
 
    .containerrr{
-    margin-top: 40%;
-    margin-bottom: 40%; 
+    margin-top: 10%;
+    margin-bottom: 10%; 
 
    }
 
@@ -261,8 +261,8 @@ body, html {
   @media screen and (min-width: 423px) and (max-width: 768px) {      /*style petites-moyennes tablettes */
 
     .containerrr{
-        margin-top: 40%;
-        margin-bottom: 40%; 
+        margin-top: -40%;
+        margin-bottom: -40%; 
     
        }
 
@@ -274,8 +274,8 @@ body, html {
 @media screen and (min-width: 376px) and (max-width: 450px) {     /*style petites-moyennes tablettes */
 
     .containerrr{
-        margin-top: 2% !important;
-        margin-bottom: 2% !important; 
+        margin-top: -40% !important;
+        margin-bottom: -40% !important; 
     
        }
     
@@ -286,8 +286,8 @@ body, html {
   @media screen and (min-width: 321px) and (max-width: 375px) {  /*style smartphones et petites tablettes en portrait*/
 
     .containerrr{
-        margin-top: 2% !important;
-        margin-bottom: 2% !important; 
+        margin-top: -10% !important;
+        margin-bottom: -10% !important; 
     
        }
   
@@ -298,8 +298,8 @@ body, html {
     @media screen and (max-device-width: 320px) {   /*style petits smartphones en voie de disparition*/
       
         .containerrr{
-            margin-top: 2% !important;
-            margin-bottom: 2% !important; 
+            margin-top: -40% !important;
+            margin-bottom: -40% !important; 
         
            }
         

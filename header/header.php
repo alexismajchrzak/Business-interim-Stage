@@ -83,7 +83,7 @@
 
 
             <li class="nav-item mt-4 "><a href="/Business-interim-Stage" class="nav-link font-weight-bold text-uppercase ">Accueil </a></li>
-            <li class="nav-item mt-4 "><a href="" class="nav-link font-weight-bold text-uppercase">Entreprise</a></li>
+            <li class="nav-item mt-4 "><a href="entreprise/entreprise.php" class="nav-link font-weight-bold text-uppercase">Entreprise</a></li>
             <li class="nav-item mt-4 "><a href="contact/contact.php" class="nav-link font-weight-bold text-uppercase">Contact</a></li>
 
         </ul>
