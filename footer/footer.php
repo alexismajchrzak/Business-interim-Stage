@@ -37,11 +37,11 @@
             </div>
 
             <div class="col-md-6 px-4">
-               <h6> À propos </h6>
+               <h6> Nous contacter </h6>
                <p> </p>  <!-- texte a mettre -->
     <ul>
-              <li> <a href="#" class=""> Plus d'infos   </a><br><br> </li>
-              <li> <a href="#" class=""> Nous contacter </a></li>
+              <li> <a href="#" class=""> Nous joindre/trouver  </a><br><br> </li>
+              <li> <a href="#" class=""> Une questions ?  </a></li>
                </ul>
             </div>
 

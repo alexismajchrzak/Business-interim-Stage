@@ -5,7 +5,7 @@ body, html {
 }
 
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://cdn-lejdd.lanmedia.fr/var/europe1/storage/images/lejdd/politique/avion-comment-le-discours-de-macron-et-du-gouvernement-a-radicalement-change-sur-les-vols-interieurs-3981363/55780839-3-fre-FR/Avion-comment-le-discours-de-Macron-et-du-gouvernement-a-radicalement-change-sur-les-vols-interieurs.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://images.pexels.com/photos/730778/pexels-photo-730778.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;

@@ -35,8 +35,18 @@
         include "../header/header2.php"
     ?>
 
+  <div class="plan">
+    <div class="card ">
+    <div class="card-body">
+        <p class="card-title fa fa-home "> 17 rue de l'Etang - 95943 ROISSY CHARLES DE GAULLE CEDEX</p>  <br/>
+        <p class="card-text fa fa-envelope  ">  <a href="mailto:Recrutement@businessinterin.fr"> Recrutement@businessinterin.fr </a>   </p> <br/>  
+        <p class="card-text fa fa-phone "><small class="text-muted"><a href="tel:+33185100765"> 01 85 10 07 65</a></small></p>
+        <p class="card-text "> Vous avez une questions ?  <div class="boutonquestion"> <a class="btn cta" href="../contact/contact.php" >Cliquez ici</a> </div>         </p>
 
-
+    </div>
+    <img src="plan.png" class="card-img-bottom" alt="...">
+    </div>
+    </div>
 
 
 <?php
