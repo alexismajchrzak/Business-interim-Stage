@@ -37,63 +37,50 @@
 
 
 
+<!-- vertical -->
+  <div class="panelmetier">
+      <h4> Panels de Métiers</hr> </h4>
+<div class="flip flip-vertical">
+    <div class="front" style="background-image: url(https://images.pexels.com/photos/159358/construction-site-build-construction-work-159358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)">
+       <h1 class="text-shadow">Chantier</hi>
+    </div>
+    <div class="back">
+       <h2>Chantier</h2>
+       <p>Chef de chantier / chef d'équipe </p> </br>
+       <p>Maçon / teressaier </p> </br>
+       <p>Grutier </p> </br>
+       <p>Applicateur d’enrobé </p> </br>
+       <p>Coffreur Génie Civil </p> </br>
+       <p>Mineur Tunnelier </p> </br>
 
+       
+    </div>
+</div>
+<div class="flip flip-vertical">
+    <div class="front" style="background-image: url(https://images.pexels.com/photos/188679/pexels-photo-188679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)">
+       <h1 class="text-shadow">Conducteur/Chauffeur</hi>
+    </div>
+    <div class="back">
+       <h2>Conducteur/Chauffeur</h2>
+       <p>Conducteur de travaux TCE </p> </br>
+       <p>Conducteur d’engins</p> </br>
+       <p>Conducteur de benne</p> </br>
+       <p>Chauffeur SPL </p> </br>
+    </div>
+</div>
+<div class="flip flip-vertical">
+    <div class="front" style="background-image: url(https://images.pexels.com/photos/2026324/pexels-photo-2026324.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)">
+       <h1 class="text-shadow">Aéroportuaire</hi>
+    </div>
+    <div class="back">
+       <h2>Aéroportuaire</h2>
+       <p>?????</p> </br>
+       <p>???</p> </br>
+       <p>C????engins</p> </br>
 
-
-<div class="metier">
-            <h4>Timeline Style : Demo-5</h4>
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="main-timeline5">
-                        <div class="timeline">
-                            <div class="timeline-icon"><span class="year fa fa-globe"></span></div>
-                            <div class="timeline-content">
-                                <h3 class="title">Web Desginer</h3>
-                                <p class="description">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lacinia mi ultrices, luctus nunc ut, commodo enim. Vivamus sem erat.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="timeline">
-                            <div class="timeline-icon"><span class="year">2017</span></div>
-                            <div class="timeline-content">
-                                <h3 class="title">Web Developer</h3>
-                                <p class="description">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lacinia mi ultrices, luctus nunc ut, commodo enim. Vivamus sem erat.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="timeline">
-                            <div class="timeline-icon"><span class="year">2016</span></div>
-                            <div class="timeline-content">
-                                <h3 class="title">Web Desginer</h3>
-                                <p class="description">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lacinia mi ultrices, luctus nunc ut, commodo enim. Vivamus sem erat.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="timeline">
-                            <div class="timeline-icon"><span class="year">2015</span></div>
-                            <div class="timeline-content">
-                                <h3 class="title">Web Developer</h3>
-                                <p class="description">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lacinia mi ultrices, luctus nunc ut, commodo enim. Vivamus sem erat.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <hr>
-
-
-
-
-
-
-
-
+    </div>
+</div>
+</div>
 
 
 
