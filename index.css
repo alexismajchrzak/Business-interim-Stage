@@ -142,7 +142,7 @@ body, html {
 }
 
 .card {
-  min-height: 170px;
+  height: 250px !important;
   margin: 0;
   padding: 1.7rem 1.2rem;
   border: none;
