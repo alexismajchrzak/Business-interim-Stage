@@ -40,8 +40,8 @@
                <h6> Nous contacter </h6>
                <p> </p>  <!-- texte a mettre -->
     <ul>
-              <li> <a href="entreprise/entreprise.php" class=""> Nous joindre/trouver  </a><br><br> </li>
-              <li> <a href="contact/contact.php" class=""> Une questions ?  </a></li>
+              <li> <a href="../entreprise/entreprise.php" class=""> Nous joindre/trouver  </a><br><br> </li>
+              <li> <a href="../contact/contact.php" class=""> Une questions ?  </a></li>
                </ul>
             </div>
 
@@ -57,7 +57,7 @@
 
                   <div class="col-md-6">
                      <ul>
-                        <li> <a href="/Business-interim-Stage"> Accueil </a> </li>
+                        <li> <a href="/Business-interim-Stage"> Accueil</a> </li>
                         <li> <a href="#"> About</a> </li>
                         <li> <a href="#"> Service</a> </li>
                         <li> <a href="#"> Team</a> </li>

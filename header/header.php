@@ -50,7 +50,7 @@
                                             <h6 class="font-weight-bold text-uppercase">Heading one</h6>
                                             <ul class="list-unstyled">
                                                 <li class="nav-item"><a href="" class="nav-link text-small pb-0">Home</a></li>
-                                                <li class="nav-item"><a href="" class="nav-link text-small pb-0 ">About</a></li>
+                                                <li class="nav-item"><a href="recrutement/recrutement.php" class="nav-link text-small pb-0 ">Recrutement</a></li>
                                                 <li class="nav-item"><a href="metier/metier.php" class="nav-link text-small pb-0 ">Panel de métier</a></li>
                                                 <li class="nav-item"><a href="" class="nav-link text-small pb-0 ">Account</a></li>
                                             </ul>

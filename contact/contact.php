@@ -130,7 +130,7 @@
 
 
 <?php
-        include "../footer/footer.php"
+        include "../footer/footer2.php"
     ?>
 
 
