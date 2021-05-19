@@ -31,6 +31,29 @@
         include "../header/header2.php"
     ?>
 
+<!-- sous menu -->
+
+<div class="sousmenu">
+        <h1> <a href="/Business-interim-Stage" >Accueil </a> <i class="fa fa-angle-right"></i> <a href="" >Recrutement</a>  </h1>
+    <br/>
+
+    <div class="wrapper2">
+    <div class="typing-demo">
+    
+        <h2> Recrutement </h2>
+        </div>
+</div>
+
+
+</div>
+
+
+
+<!-- fin sous menu -->
+
+
+
+
 
 <div class="wrapper">
 
