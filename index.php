@@ -87,7 +87,7 @@
           <h4>Expert du recrutement</br>  dans les Travaux Publics </h4>
           <p>Terrassement, aménagement urbain, pose de réseaux souterrains. Premium Intérim a su développer avec ses Clients, une relation de partenariat fondée sur la confiance réciproque et la qualité des liens contractuels.</p>
         </div>
-        <a href="#">En savoir plus </a>
+        <a href="metier/metier.php">En savoir plus </a>
       <div class="ico-card">
         <i class="fa fa-wrench "></i>
       </div>
@@ -100,7 +100,7 @@
           <h4>Expert du recrutement </br>dans l'aéroportuaire </h4>
           <p>Busines Intérim a su développer avec ses Clients, une relation de partenariat fondée sur la confiance réciproque et la qualité des liens contractuels. Agissant en cabinet spécialisé, mettant en œuvre une approche individualisée pour chaque Candidats .</p>
         </div>
-        <a href="#">En savoir plus</a>
+        <a href="recrutement/recrutement.php">En savoir plus</a>
       <div class="ico-card">
         <i class="fa fa-plane"></i>
       </div>
@@ -126,7 +126,7 @@
           <h4>Expert du recrutement </br>   dans le Tertiaire</h4>   <!-- grand titre --> 
           <p >Vous avez des besoins dans le tertiaire n'hésitez pas à nous consulter. </p>   <!-- texte apres hover -->
         </div>
-        <a href="#">En savoir plus</a>
+        <a href="recrutement/recrutement.php">En savoir plus</a>
         <div class="ico-card">
         <i class="fa fa-desktop"></i>
       </div>
@@ -139,7 +139,7 @@
           <h4>Recrutement </br>  </h4>
           <p class="recrutement" >Nos consultants maîtrisent les domaines dans lesquels ils interviennent, ils sont les interlocuteurs RH privilégiés des opérationnels qui les mandatent pour leurs recrutements en CDI, CDD et intérim, en France et à l’international.</p>
         </div>
-        <a href="#">En savoir plus </a>
+        <a href="recrutement/recrutement.php">En savoir plus </a>
       <div class="ico-card">
         <i class="fa fa-address-card-o"></i>
       </div>
