@@ -37,9 +37,32 @@
 
 
 
+
+<!-- sous menu -->
+
+<div class="sousmenu">
+        <h1> <a href="/Business-interim-Stage" >Accueil </a> <i class="fa fa-angle-right"></i> <a href="" >Panel de Métier</a>  </h1>
+    <br/>
+
+    <div class="wrapper2">
+    <div class="typing-demo">
+    
+        <h2>Panel de Métier </h2>
+        </div>
+</div>
+
+
+</div>
+
+
+
+<!-- fin sous menu -->
+
+
+
+
 <!-- vertical -->
   <div class="panelmetier">
-      <h4> Panels de Métiers</hr> </h4>
 <div class="flip flip-vertical">
     <div class="front" style="background-image: url(https://images.pexels.com/photos/159358/construction-site-build-construction-work-159358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)">
        <h1 class="text-shadow">Chantier</hi>

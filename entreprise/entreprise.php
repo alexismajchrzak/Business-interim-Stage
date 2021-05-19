@@ -30,10 +30,36 @@
 
 
 
+<!-- fin sous menu -->
+
+
+
+
 
     <?php
         include "../header/header2.php"
     ?>
+
+
+
+<!-- sous menu -->
+
+<div class="sousmenu">
+        <h1> <a href="/Business-interim-Stage" >Accueil </a> <i class="fa fa-angle-right"></i> <a href="" >Entreprise </a>  </h1>
+    <br/>
+
+    <div class="wrapper2">
+    <div class="typing-demo">
+    
+        <h2>Entreprise  </h2>
+        </div>
+</div>
+
+
+</div>
+
+
+
 
   <div class="plan">
     <div class="card ">

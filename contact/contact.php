@@ -36,6 +36,30 @@
     ?>
 
 
+
+<!-- sous menu -->
+
+<div class="sousmenu">
+        <h1> <a href="/Business-interim-Stage" >Accueil </a> <i class="fa fa-angle-right"></i> <a href="" >Contact </a>  </h1>
+    <br/>
+
+    <div class="wrapper2">
+    <div class="typing-demo">
+    
+        <h2>Contact </h2>
+        </div>
+</div>
+
+
+</div>
+
+
+<!-- fin sous menu -->
+
+
+
+
+
 <div class="container-fluid px-1 px-md-5 px-lg-1 px-xl-5 py-5 mx-auto">
     <div class="card card0 border-0">
         <div class="row d-flex">
