@@ -46,22 +46,20 @@
                                     <div class="row">
 
                                         <div class="col-lg-6 mb-4">
-                                            <h6 class="font-weight-bold text-uppercase">Heading one</h6>
+                                            <h6 class="font-weight-bold text-uppercase">Comment ça marche ?</h6>
                                             <ul class="list-unstyled">
-                                                <li class="nav-item"><a href="" class="nav-link text-small pb-0">Home</a></li>
+                                                <li class="nav-item"><a href="/Business-interim-Stage" class="nav-link text-small pb-0">Accueil</a></li>
                                                 <li class="nav-item"><a href="../recrutement/recrutement.php" class="nav-link text-small pb-0 ">Recrutement</a></li>
                                                 <li class="nav-item"><a href="../metier/metier.php" class="nav-link text-small pb-0 ">Panel de metier</a></li>
-                                                <li class="nav-item"><a href="" class="nav-link text-small pb-0 ">Account</a></li>
                                             </ul>
                                         </div>
 
                                         <div class="col-lg-6 mb-4">
-                                            <h6 class="font-weight-bold text-uppercase">Heading two</h6>
+                                            <h6 class="font-weight-bold text-uppercase">Qui sommes nous ?</h6>
                                             <ul class="list-unstyled">
-                                                <li class="nav-item"><a href="" class="nav-link text-small pb-0 ">Home</a></li>
-                                                <li class="nav-item"><a href="" class="nav-link text-small pb-0 ">About</a></li>
-                                                <li class="nav-item"><a href="" class="nav-link text-small pb-0 ">Help</a></li>
-                                                <li class="nav-item"><a href="" class="nav-link text-small pb-0 ">Account</a></li>
+                                                <li class="nav-item"><a href="../nous/nous.php" class="nav-link text-small pb-0 ">Nous </a></li>
+                                                <li class="nav-item"><a href="../entreprise/entreprise.php" class="nav-link text-small pb-0 ">Entreprise </a></li>
+                                                <li class="nav-item"><a href="../contact/contact.php" class="nav-link text-small pb-0 ">Contact </a></li>
                                             </ul>
                                         </div>
 
@@ -71,7 +69,7 @@
                                 </div>
                             </div>
 
-                            <div class="col-lg-5 col-xl-4 px-0 d-none d-lg-block" style="background: center center url(https://images.unsplash.com/photo-1533637267520-4dfd6aa7ee93?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1268&q=80)no-repeat; background-size: cover;"></div>  <!-- image header -->
+                            <div class="col-lg-5 col-xl-4 px-0 d-none d-lg-block" style="background: center center url(https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)no-repeat; background-size: cover;"></div>  <!-- image header -->
                         </div>
                     </div>
                 </div>
