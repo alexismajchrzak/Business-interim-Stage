@@ -31,7 +31,7 @@
             <div class="col-md-6 ">
                <div class="logo-part">
                   <h1 class="w-50 logo-footer" > Business Interim </h1>
-                  <p>17 rue de l'Etang - 95943 ROISSY CHARLES DE GAULLE</p>
+                  <p>71/73 boulevard de l'hôtel de ville, Aulnay-sous-bois 93600</p>
                   <p> </p>   <!-- mettre un petit slogan ici -->
                </div>
             </div>

@@ -64,7 +64,7 @@
   <div class="plan">
     <div class="card ">
     <div class="card-body">
-        <p class="card-title fa fa-home "> 17 rue de l'Etang - 95943 ROISSY CHARLES DE GAULLE CEDEX</p>  <br/>
+        <p class="card-title fa fa-home "> 71/73 boulevard de l'hôtel de ville, Aulnay-sous-bois 93600</p>  <br/>
         <p class="card-text fa fa-envelope  ">  <a href="mailto:Recrutement@businessinterin.fr"> Recrutement@businessinterin.fr </a>   </p> <br/>  
         <p class="card-text fa fa-phone "><small class="text-muted"><a href="tel:+33185100765"> 01 85 10 07 65</a></small></p>
         <p class="card-text "> Vous avez une questions ?  <div class="boutonquestion"> <a class="btn cta" href="../contact/contact.php" >Cliquez ici</a> </div>         </p>
