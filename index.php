@@ -41,7 +41,7 @@
     <p>La compétence au service de la performance</p>
 
 <div class="buttonhover">
-    <a href="#" class="cta">
+    <a href="nous/nous.php" class="cta">
     <span>Qui sommes nous ?</span>
     <svg width="13px" height="10px" viewBox="0 0 13 10">
         <path d="M1,5 L11,5"></path>
@@ -74,7 +74,7 @@
           <h4>Une entreprise  </br>  au coeur de vos attentes</h4>   <!-- grand titre --> 
           <p>Le capital humain représente la meilleure réponse aux bouleversements économiques. Polyvalence, expertise et savoir faire professionnel sont devenus une nécessité absolue pour la compétitivité de l’entreprise.</p>   <!-- texte apres hover -->
         </div>
-        <a href="#">En savoir plus</a>
+        <a href="nous/nous.php">En savoir plus</a>
         <div class="ico-card">
         <i class="fa fa-heart"></i>
       </div>
@@ -113,7 +113,7 @@
           <h4>Satisfaction </br> Clientèle </h4>
           <p>Votre satisfaction est notre priorité. Businnes Interim s’adapte en temps réel aux  nouvelles orientations des entreprises.</p>
         </div>
-        <a href="#">En savoir plus</a>
+        <a href="nous/nous.php">En savoir plus</a>
       <div class="ico-card">
         <i class="fa fa-star-half-o"></i>
       </div>
@@ -154,7 +154,7 @@
 <!-- fin expertise -->
 
 
-
+<!-- 
 
 <div id="projectFacts" class="sectionClass"  >
     <div class="fullWidth eight columns">
@@ -192,7 +192,7 @@
     </div>
 </div>
 
-
+-->
 
 
 

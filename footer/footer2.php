@@ -57,12 +57,12 @@
 
                   <div class="col-md-6">
                      <ul>
-                        <li> <a href="/Business-interim-Stage"> Accueil</a> </li>
-                        <li> <a href="#"> About</a> </li>
-                        <li> <a href="#"> Service</a> </li>
-                        <li> <a href="#"> Team</a> </li>
-                        <li> <a href="#"> Help</a> </li>
-                        <li> <a href="#"> Contact</a> </li>
+                     <li> <a href="/Business-interim-Stage"> Accueil </a> </li>
+                        <li> <a href="../recrutement/recrutement.php"> Recrutement </a> </li>
+                        <li> <a href="../metier/metier.php"> Métier </a> </li>
+                        <li> <a href="../nous/nous.php">  Nous </a> </li>
+                        <li> <a href="../entreprise/entreprise.php"> Entreprise </a> </li>
+                        <li> <a href="../contact/contact.php"> Contact</a> </li>
                      </ul>
                   </div>
 
