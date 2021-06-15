@@ -59,7 +59,7 @@
 
 
 
-
+<div class="pourcontact">
 <div class="container-fluid px-1 px-md-5 px-lg-1 px-xl-5 py-5 mx-auto">
     <div class="card card0 border-0">
         <div class="row d-flex">
@@ -67,77 +67,75 @@
             <div class="col-lg-6">
                 <div class="card1 pb-5">
                     <div class="row"> <img src="../logo.jpg"   class="logo"> </div>
-                    <div class="row px-3 justify-content-center mt-4 mb-5 border-line"> <img src="https://i.imgur.com/uNGdWHi.png" class="image"> </div>
+                    <div class="row px-4 justify-content-center mt-5 mb-4 border-line"> <img src="formulaire.png" style="height: 90%;  width: 80%;"  class="image"> </div>
                 </div>
             </div>
             
-            <div class="col-lg-6">
-                <div class="card2 card border-0 px-4 py-5">
+            
+            <div class="col-lg-6  ">
+                <div class="card2 card border-0 px-3 py-5">
 
-                    <div class="row mb-4 px-3">
-                        <h6 class="mb-0 mr-4 mt-2">Nos réseaux </h6>
+                    <div class="row mb-3 px-1">
+                        <h5 class="mb-0 mr-4 mt-2">Comment nous contacter par mail ? </h5>
 
-                        <div class="facebook text-center mr-3">
-                            <div class="fa fa-facebook"></div>
-                        </div>
-
-                        <div class="twitter text-center mr-3">
-                            <div class="fa fa-twitter"></div>
-                        </div>
-
-                        <div class="linkedin text-center mr-3">
-                            <div class="fa fa-linkedin"></div>
-                        </div>
-
-                        <div class="google text-center mr-3">
-                            <div class="fa fa-google-plus"></div>
-                        </div>
-
+                    
                     </div>
 
                     <div class="row px-3 mb-4">
-                        <div class="line"></div> <small class="or text-center">Ou</small>
+                        <div class="line"></div> 
                         <div class="line"></div>
                     </div>
 
 
                         <div class="row px-3"> <label class="mb-1">
-                            <h6 class="mb-0 text-sm">Prénom </h6>
-                        </label> <input class="mb-4" type="text" name="firstname" placeholder="Entrer votre Prénom"> </div>
-
-
-                        <div class="row px-3"> <label class="mb-1">
-                            <h6 class="mb-0 text-sm">Nom </h6>
-                        </label> <input class="mb-4" type="text" name="lastname" placeholder="Entrer votre Nom "> </div>
+                            <h7 class="mb-0 text-sm">Mettre vos informations dans cette ordre : </h7>
+                        </div>
+                    </br>
 
                         <div class="row px-3"> <label class="mb-1">
-                            <h6 class="mb-0 text-sm">Email Address</h6>
-                        </label> <input class="mb-4" type="text" name="email" placeholder="Entrer votre adress mail "> </div>
+                            <h6 class="mb-0 text-sm">Prénom </h6></div>
 
                         <div class="row px-3"> <label class="mb-1">
-                            <h6 class="mb-0 text-sm">Numéro de télephone </h6>
-                        </label> <input type="mb-4" name="phone" placeholder="Entrer votre numéro de télephone "> </div>
+                            <h6 class="mb-0 text-sm">Nom </h6></div>
 
-                        <div class="row px-3"> <label class="mb-1 mt-3">
-                            <h6 class="mb-0  text-sm">Message  </h6>
-                        </label> <input class="mb-4" type="text" name="text" placeholder="Entrer votre message ou votre demande  "> </div>
+                        <div class="row px-3"> <label class="mb-1">
+                            <h6 class="mb-0 text-sm">Adresse mail</h6></div>
 
-                   
+                        <div class="row px-3"> <label class="mb-1">
+                            <h6 class="mb-0 text-sm">Numéro de télephone </h6></div>
 
-                    <div class="row mb-3 px-3"> <button type="submit" class="btn btn-blue text-center">Validez </button> </div>
+                        <div class="row px-3"> <label class="mb-3">
+                            <h6 class="mb-0  text-sm"> Votre message/questions </h6></div>
+
+                    <div class="row px-3 mb-4">
+                        <div class="line"></div> 
+                        <div class="line"></div>
+                    </div>
+
+                    <div class="row px-3"> <label class="mb-1">
+                            <h7 class="mb-0 text-sm">Cliquez sur l'adresse mail et posez nous vos questions nous sommes à votre écoutes  </h7>
+                        </div>
+</br>
+
+
+
+                        <div class="row px-3"> <label class="mb-3 ">
+                            <h4 class="mb-0 text-sm"><a href="mailto:Recrutement@businessinterin.fr"> Recrutement@businessinterin.fr </a>   </h4></div>
+
+
                     
                 </div>
             </div>
         </div>
 
         <div class="bg-blue py-4">
-            <div class="row px-3"> <small class="ml-4 ml-sm-5 mb-2">  Remplir ce formulaire si vous avez des questions ou des demandes, votre candidature seras retransmise par mail </small>
+            <div class="row px-3"> <small class="ml-4 ml-sm-5 mb-2"> Vous voulez nous envoyez un mail ? Voici comment le faire  </small>
             </div>
         </div>
 
     </div>
 </div>
-
+</div>
 
 
 
