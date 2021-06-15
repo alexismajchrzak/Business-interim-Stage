@@ -74,7 +74,6 @@
           <h4>Une entreprise  </br>  au coeur de vos attentes</h4>   <!-- grand titre --> 
           <p>Le capital humain représente la meilleure réponse aux bouleversements économiques. Polyvalence, expertise et savoir faire professionnel sont devenus une nécessité absolue pour la compétitivité de l’entreprise.</p>   <!-- texte apres hover -->
         </div>
-        <a href="nous/nous.php">En savoir plus</a>
         <div class="ico-card">
         <i class="fa fa-heart"></i>
       </div>
@@ -87,7 +86,6 @@
           <h4>Expert du recrutement</br>  dans les Travaux Publics </h4>
           <p>Terrassement, aménagement urbain, pose de réseaux souterrains. Premium Intérim a su développer avec ses Clients, une relation de partenariat fondée sur la confiance réciproque et la qualité des liens contractuels.</p>
         </div>
-        <a href="metier/metier.php">En savoir plus </a>
       <div class="ico-card">
         <i class="fa fa-wrench "></i>
       </div>
@@ -100,7 +98,6 @@
           <h4>Expert du recrutement </br>dans l'aéroportuaire </h4>
           <p>Busines Intérim a su développer avec ses Clients, une relation de partenariat fondée sur la confiance réciproque et la qualité des liens contractuels. Agissant en cabinet spécialisé, mettant en œuvre une approche individualisée pour chaque Candidats .</p>
         </div>
-        <a href="recrutement/recrutement.php">En savoir plus</a>
       <div class="ico-card">
         <i class="fa fa-plane"></i>
       </div>
@@ -113,7 +110,6 @@
           <h4>Satisfaction </br> Clientèle </h4>
           <p>Votre satisfaction est notre priorité. Businnes Interim s’adapte en temps réel aux  nouvelles orientations des entreprises.</p>
         </div>
-        <a href="nous/nous.php">En savoir plus</a>
       <div class="ico-card">
         <i class="fa fa-star-half-o"></i>
       </div>
@@ -126,7 +122,6 @@
           <h4>Expert du recrutement </br>   dans le Tertiaire</h4>   <!-- grand titre --> 
           <p >Vous avez des besoins dans le tertiaire n'hésitez pas à nous consulter. </p>   <!-- texte apres hover -->
         </div>
-        <a href="recrutement/recrutement.php">En savoir plus</a>
         <div class="ico-card">
         <i class="fa fa-desktop"></i>
       </div>
@@ -139,7 +134,6 @@
           <h4>Recrutement </br>  </h4>
           <p class="recrutement" >Nos consultants maîtrisent les domaines dans lesquels ils interviennent, ils sont les interlocuteurs RH privilégiés des opérationnels qui les mandatent pour leurs recrutements en CDI, CDD et intérim, en France et à l’international.</p>
         </div>
-        <a href="recrutement/recrutement.php">En savoir plus </a>
       <div class="ico-card">
         <i class="fa fa-address-card-o"></i>
       </div>

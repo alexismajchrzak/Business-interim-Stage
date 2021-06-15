@@ -243,12 +243,25 @@ body, html {
 
  /*  ------- responsive ------ */ 
 
+
+
+ @media screen and (min-width: 1439px) and (max-width: 1900px) {      /*style petites-moyennes tablettes */
+
+  .containerrr{
+      margin-top: 15% !important ;
+      margin-bottom: 15% !important ; 
+  
+     }
+
+
+}
+
 @media screen and (min-width: 768px) and (max-width: 1024px) {    /*style petites-moyennes tablettes */
 
 
    .containerrr{
-    margin-top: 10%;
-    margin-bottom: 10%; 
+    margin-top: 30% !important ;
+    margin-bottom: 30% !important ; 
 
    }
 
@@ -256,13 +269,29 @@ body, html {
         margin-bottom: 30%;
    }
 
+
+   .card {
+    height: 300px !important;
+    margin: 0;
+    padding: 1.7rem 1.2rem;
+    border: none;
+    border-radius: 0;
+    color: black;
+    letter-spacing: 0.05rem;
+    font-family: "Oswald", sans-serif;
+    box-shadow: 0 0 21px rgba(0, 0, 0, 0.27);
+  }
+
+
+
+
   }
   
   @media screen and (min-width: 423px) and (max-width: 768px) {      /*style petites-moyennes tablettes */
 
     .containerrr{
-        margin-top: -40%;
-        margin-bottom: -40%; 
+        margin-top: 10% !important ;
+        margin-bottom: 10% !important ; 
     
        }
 
@@ -274,8 +303,8 @@ body, html {
 @media screen and (min-width: 376px) and (max-width: 450px) {     /*style petites-moyennes tablettes */
 
     .containerrr{
-        margin-top: -40% !important;
-        margin-bottom: -40% !important; 
+        margin-top: -30% !important;
+        margin-bottom: -30% !important; 
     
        }
     
@@ -298,8 +327,8 @@ body, html {
     @media screen and (max-device-width: 320px) {   /*style petits smartphones en voie de disparition*/
       
         .containerrr{
-            margin-top: -40% !important;
-            margin-bottom: -40% !important; 
+            margin-top: -10% !important;
+            margin-bottom: -10% !important; 
         
            }
         
