@@ -143,14 +143,6 @@
 
 
 
-
-
-
-
-
-
-
-
 <?php
         include "../footer/footer2.php"
     ?>
